@@ -1,6 +1,6 @@
 # ShareMe
 
-Website : https://shareme-saurav.herokuapp.com/
-Login credentials -
-Username: guest1
-password: guest123456
+Website : https://shareme-saurav.herokuapp.com/ <br> 
+Login credentials -  
+Username: guest1 <br>  
+password: guest123456. 
